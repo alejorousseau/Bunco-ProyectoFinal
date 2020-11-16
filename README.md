@@ -1,2 +1,10 @@
 # Bunco-ProyectoFinal
-Juego bunco, proyecto final para Laboratorio l.
+
+██████╗ ██╗   ██╗███╗   ██╗ ██████╗ ██████╗ 
+██╔══██╗██║   ██║████╗  ██║██╔════╝██╔═══██╗
+██████╔╝██║   ██║██╔██╗ ██║██║     ██║   ██║
+██╔══██╗██║   ██║██║╚██╗██║██║     ██║   ██║
+██████╔╝╚██████╔╝██║ ╚████║╚██████╗╚██████╔╝
+╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ 
+                                           
+Proyecto de Balbona Arvigo Mateo y Alejo Nicolas Rousseau.
