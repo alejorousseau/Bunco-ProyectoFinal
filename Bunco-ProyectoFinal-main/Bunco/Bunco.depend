@@ -1,0 +1,174 @@
+# depslib dependency file v1.0
+1604538171 source:c:\users\alumno\documents\tup-carrera\laboratorio i\bunco\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<windows.h>
+	"componentes/menu.h"
+	"funciones/funciones.h"
+
+1605049418 c:\users\alumno\documents\tup-carrera\laboratorio i\bunco\componentes\menu.h
+	"unjugador/principal.h"
+	"../funciones/funciones.h"
+
+1604615829 c:\users\alumno\documents\tup-carrera\laboratorio i\bunco\componentes\unjugador\principal.h
+	"../../funciones/funciones.h"
+	"../pantallafinalronda.h"
+	"componentes/pantallafinalunjugador.h"
+
+1604605006 c:\users\alumno\documents\tup-carrera\laboratorio i\bunco\funciones\funciones.h
+	<cstdlib>
+	<ctime>
+
+1604596481 c:\users\alumno\documents\tup-carrera\laboratorio i\bunco\componentes\pantallafinalronda.h
+
+1604599068 c:\users\alumno\documents\tup-carrera\laboratorio i\bunco\componentes\unjugador\componentes\pantallafinalunjugador.h
+	"../../../funciones/funciones.h"
+
+1605050748 source:c:\users\mateoelpequeñito\desktop\bunco\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<windows.h>
+	"componentes/menu.h"
+	"funciones/funciones.h"
+
+1605056375 c:\users\mateoelpequeñito\desktop\bunco\componentes\menu.h
+	"unjugador/principal.h"
+	"../funciones/funciones.h"
+
+1605058765 c:\users\mateoelpequeñito\desktop\bunco\componentes\unjugador\principal.h
+	"../../funciones/funciones.h"
+	"../pantallafinalronda.h"
+	"componentes/pantallafinalunjugador.h"
+
+1605058597 c:\users\mateoelpequeñito\desktop\bunco\funciones\funciones.h
+	<cstdlib>
+	<ctime>
+
+1605051807 c:\users\mateoelpequeñito\desktop\bunco\componentes\pantallafinalronda.h
+
+1605058619 c:\users\mateoelpequeñito\desktop\bunco\componentes\unjugador\componentes\pantallafinalunjugador.h
+	"../../../funciones/funciones.h"
+
+1605536244 source:c:\users\alumno\desktop\bunco_2\bunco\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<windows.h>
+	"componentes/menu.h"
+	"funciones/funciones.h"
+
+1605542347 c:\users\alumno\desktop\bunco_2\bunco\componentes\menu.h
+	"unjugador/main.h"
+	"simulado/main.h"
+	"dosjugadores/main.h"
+	"maxpuntuacion/main.h"
+	"../funciones/funciones.h"
+	"dosjugadores/componentes/pantallafinaldosjugadores.h"
+
+1605463678 c:\users\alumno\desktop\bunco_2\bunco\componentes\unjugador\principal.h
+	"../../funciones/funciones.h"
+	"../pantallafinalronda.h"
+	"componentes/pantallafinalunjugador.h"
+
+1605549260 c:\users\alumno\desktop\bunco_2\bunco\funciones\funciones.h
+	<cstdlib>
+	<ctime>
+
+1605545228 c:\users\alumno\desktop\bunco_2\bunco\componentes\pantallafinalronda.h
+
+1605544579 c:\users\alumno\desktop\bunco_2\bunco\componentes\unjugador\componentes\pantallafinalunjugador.h
+	"../../../funciones/funciones.h"
+
+1605548816 c:\users\alumno\desktop\bunco_2\bunco\componentes\unjugador\main.h
+	"../../funciones/funciones.h"
+	"componentes/finronda.h"
+	"componentes/pantallafinalunjugador.h"
+
+1605548790 c:\users\alumno\desktop\bunco_2\bunco\componentes\simulado\main.h
+	"../../funciones/funciones.h"
+	"../unjugador/componentes/finronda.h"
+	"../unjugador/componentes/pantallafinalunjugador.h"
+
+1605542304 c:\users\alumno\desktop\bunco_2\bunco\componentes\maxpuntuacion\main.h
+	"../../funciones/funciones.h"
+
+1605548829 c:\users\alumno\desktop\bunco_2\bunco\componentes\dosjugadores\main.h
+	"../../funciones/funciones.h"
+	"componentes/finronda.h"
+	"componentes/pantallafinaldosjugadores.h"
+
+1605545497 c:\users\alumno\desktop\bunco_2\bunco\componentes\dosjugadores\componentes\finronda.h
+
+1605542209 c:\users\alumno\desktop\bunco_2\bunco\componentes\dosjugadores\componentes\pantallafinaldosjugadores.h
+	"../../../funciones/funciones.h"
+
+1605545228 c:\users\alumno\desktop\bunco_2\bunco\componentes\unjugador\componentes\finronda.h
+
+1605563585 source:c:\users\alejo\desktop\bunco-proyectofinal-main\bunco\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<windows.h>
+	"componentes/menu.h"
+	"funciones/funciones.h"
+
+1608385557 c:\users\alejo\desktop\bunco-proyectofinal-main\bunco\componentes\menu.h
+	"unjugador/unjugador.h"
+	"simulado/simulado.h"
+	"dosjugadores/dosjugadores.h"
+	"maxpuntuacion/maxpuntuacion.h"
+	"../funciones/funciones.h"
+	"dosjugadores/componentes/pantallafinaldosjugadores.h"
+
+1605563585 c:\users\alejo\desktop\bunco-proyectofinal-main\bunco\componentes\unjugador\main.h
+	"../../funciones/funciones.h"
+	"componentes/finronda.h"
+	"componentes/pantallafinalunjugador.h"
+
+1607701774 c:\users\alejo\desktop\bunco-proyectofinal-main\bunco\funciones\funciones.h
+	<cstdlib>
+	<ctime>
+
+1605563585 c:\users\alejo\desktop\bunco-proyectofinal-main\bunco\componentes\unjugador\componentes\finronda.h
+
+1605563585 c:\users\alejo\desktop\bunco-proyectofinal-main\bunco\componentes\unjugador\componentes\pantallafinalunjugador.h
+	"../../../funciones/funciones.h"
+
+1605563585 c:\users\alejo\desktop\bunco-proyectofinal-main\bunco\componentes\simulado\main.h
+	"../../funciones/funciones.h"
+	"../unjugador/componentes/finronda.h"
+	"../unjugador/componentes/pantallafinalunjugador.h"
+
+1607703531 c:\users\alejo\desktop\bunco-proyectofinal-main\bunco\componentes\dosjugadores\main.h
+	"../../funciones/funciones.h"
+	"componentes/finronda.h"
+	"componentes/pantallafinaldosjugadores.h"
+
+1605563585 c:\users\alejo\desktop\bunco-proyectofinal-main\bunco\componentes\dosjugadores\componentes\finronda.h
+
+1605563585 c:\users\alejo\desktop\bunco-proyectofinal-main\bunco\componentes\dosjugadores\componentes\pantallafinaldosjugadores.h
+	"../../../funciones/funciones.h"
+
+1605563585 c:\users\alejo\desktop\bunco-proyectofinal-main\bunco\componentes\maxpuntuacion\main.h
+	"../../funciones/funciones.h"
+
+1605563585 c:\users\alejo\desktop\bunco-proyectofinal-main\bunco\componentes\unjugador\unjugador.h
+	"../../funciones/funciones.h"
+	"componentes/finronda.h"
+	"componentes/pantallafinalunjugador.h"
+
+1605563585 c:\users\alejo\desktop\bunco-proyectofinal-main\bunco\componentes\simulado\simulado.h
+	"../../funciones/funciones.h"
+	"../unjugador/componentes/finronda.h"
+	"../unjugador/componentes/pantallafinalunjugador.h"
+
+1608556428 c:\users\alejo\desktop\bunco-proyectofinal-main\bunco\componentes\dosjugadores\dosjugadores.h
+	"../../funciones/funciones.h"
+	"componentes/finronda.h"
+	"componentes/pantallafinaldosjugadores.h"
+
+1605563585 c:\users\alejo\desktop\bunco-proyectofinal-main\bunco\componentes\maxpuntuacion\maxpuntuacion.h
+	"../../funciones/funciones.h"
+
